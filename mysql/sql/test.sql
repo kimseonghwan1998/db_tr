@@ -3,7 +3,7 @@
 SELECT * FROM member
 WHERE 1=1
 -- AND name like 'To%'
--- AND name like '%ny'
+-- AND name like '%ny'cos_recommendationcos_recommendation
 AND name like '%ny%'
 ;
 
