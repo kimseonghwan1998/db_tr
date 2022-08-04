@@ -5,7 +5,7 @@ use love;
 -- 중요 별 백개 ************************************
 
 -- 전체 컬럼 조회
-select * from member;
+-- select * frommembercos_recommendationcos_recommendation member;
 
 -- 컬럼 추가
 ALTER TABLE member2 ADD COLUMN nickname VARCHAR(45);
