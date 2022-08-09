@@ -41,6 +41,8 @@ select
 from run_crew y
 left join member x on x.seq = y.member_member;
 
+
+
 -- 러닝크루 지원상세 
 
 -- 게시판
